@@ -3,15 +3,19 @@ name: Sync Notion Notes to GitHub
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *" # runs daily
+    - cron: "0 0 * * *"
+
+permissions:
+  contents: write
 
 jobs:
   sync:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+        with:
+          persist-credentials: true
 
       - name: Set up Node
         uses: actions/setup-node@v4
@@ -32,5 +36,5 @@ jobs:
           git config user.name "notion-bot"
           git config user.email "bot@github.com"
           git add .
-          git commit -m "Update notes from Notion" || echo "No changes"
+          git commit -m "docs(sync): update notes from Notion" || echo "No changes"
           git push
