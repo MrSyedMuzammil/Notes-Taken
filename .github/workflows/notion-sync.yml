@@ -1,0 +1,36 @@
+name: Sync Notion Notes to GitHub
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *" # runs daily
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18
+
+      - name: Install dependencies
+        run: npm install @notionhq/client notion-to-md fs-extra
+
+      - name: Export Notion notes
+        run: node export-notion.js
+        env:
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+          NOTION_PAGE_ID: ${{ secrets.NOTION_PAGE_ID }}
+
+      - name: Commit & push notes
+        run: |
+          git config user.name "notion-bot"
+          git config user.email "bot@github.com"
+          git add .
+          git commit -m "Update notes from Notion" || echo "No changes"
+          git push
