@@ -581,3 +581,60 @@ I am practicing coding and keeping all my projects on github, I am keeping all m
 
 </details>
 
+
+CHOOSE THE RIGHT COLOR
+1
+Make the main color match your website's personality: colors convey meaning!
+Red draws a lot of attention, and symbolizes power, passion, and excitement
+Orange is less aggressive, and conveys happiness, cheerfulness, and creativity
+Yellow means joy, brightness, and intelligence
+Greens represents harmony, nature, growth, and health
+Blue is associated with peace, trustworthiness, and professionalism
+Purple conveys wealth, wisdom, and magic
+Pink represents romance, care, and affection
+Brown is associated with nature, durability and comfort
+Black symbolizes power, elegance and minimalism, but also grief and sorrow
+
+
+1
+2
+Make the main color match your website's personality: colors convey meaning!
+Use a good color tone! Don't choose a random tone or CSS named colors.
+
+
+TOOLBOX
+OC- Open color
+tailwindcss
+FLAT Ul COLORS 2
+
+
+ESTABLISH A COLOR SYSTEM
+3
+4
+You need at least two types of colors in your color palette: a main color and a grey color
+With more experience, you can add more colors: accent (secondary) colors (use a tool)
+
+
+MAIN
+ACCENT
+GREY
+
+
+ESTABLISH A COLOR SYSTEM
+3
+4
+5
+You need at least two types of colors in your color palette: a main color and a grey color
+With more experience, you can add more colors: accent colors (use a tool)
+For diversity, create lighter and darker "versions" (tints and shades)
+
+
+TOOLBOX
+OC- Open color
+tailwindcss
+FLAT Ul COLORS 2
+O
+[palleton.com](http://palleton.com/)
+coot-ors
+Tint & Shado Generator
+
