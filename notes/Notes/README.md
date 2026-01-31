@@ -671,6 +671,149 @@ I am practicing coding and keeping all my projects on github, I am keeping all m
 </details>
 
 
+## The Purpose of School
+
+
+Education serves industrial compliance while learning requires solving interesting problems through leadership.
+
+
+> 💡 Solving interesting problems and leading.
+
+> An interesting problem lacks a searchable answer. ___Seth Godin
+
+## The Industrial Legacy
+
+
+### Obedience as a Foundation
+
+
+### Why this matters
+
+- Factories required workers to follow orders for twelve hours daily.
+- Public education trained people to move off farms into buildings.
+- Straight rows and processed batches replicate factory organization.
+
+## Work versus Art
+
+
+### The Distinction of Effort
+
+
+### Why this matters
+
+- People try to minimize work.
+- Artists try to maximize art.
+- Compliance makes school feel like a job.
+- Solving interesting problems turns learning into art.
+
+## The Eight Shifts of Modern Learning
+
+
+### Structural Changes
+
+
+### Why this matters
+
+- Digital tools remove the need for physical lectures.
+- Open books prioritize application over memorization.
+- Cooperation reflects the real world better than isolation.
+
+## Collecting versus Connecting Dots
+
+
+### The Goal of Education
+
+
+### Why this matters
+
+- Schools measure dot collection through facts.
+- Solving problems requires connecting dots.
+- Connecting dots allows for failure and persistence.
+
+### Common Mistakes
+
+<details>
+<summary>Believing grades lead to happiness. </summary>
+
+Fix: Focus on passion and insight.
+
+
+</details>
+
+<details>
+<summary>Confusing memorization with knowledge. </summary>
+
+Fix: Use open books for every task.
+
+
+</details>
+
+<details>
+<summary>Prioritizing attendance over output. </summary>
+
+Fix: Measure work produced.
+
+
+</details>
+
+<details>
+<summary>Working alone to avoid cheating. </summary>
+
+Fix: Collaborate with peers.
+
+
+</details>
+
+<details>
+<summary>Thinking a famous name guarantees success. </summary>
+
+Fix: Build a portfolio of results.
+
+
+</details>
+
+<details>
+<summary>Using multiple choice for complex topics. </summary>
+
+Fix: Create unique solutions.
+
+
+</details>
+
+<details>
+<summary>Holding back effort to avoid more work. </summary>
+
+Fix: Turn tasks into art.
+
+
+</details>
+
+<details>
+<summary>Asking for the right answer. </summary>
+
+Fix: Accept multiple solutions.
+
+
+</details>
+
+<details>
+<summary>Waiting for the supervisor to assign tasks. </summary>
+
+Fix: Take agency.
+
+
+</details>
+
+
+### Homework
+
+
+**Analyze your own education. Then, answer these prompts:**
+
+1. Describe a teacher pulling your "Brads" out like the woman in the story.
+2. Name a problem you solved without looking up the answer.
+3. How will you use a tool like Arduino to build something interesting today?
+
 CHOOSE THE RIGHT COLOR
 1
 Make the main color match your website's personality: colors convey meaning!
