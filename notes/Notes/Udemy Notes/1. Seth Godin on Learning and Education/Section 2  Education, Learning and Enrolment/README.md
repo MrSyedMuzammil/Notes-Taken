@@ -321,3 +321,74 @@ Fix: Take agency.
 1. Describe a teacher pulling your "Brads" out like the woman in the story.
 2. Name a problem you solved without looking up the answer.
 3. How will you use a tool like Arduino to build something interesting today?
+
+## The Commitment to Hard Learning
+
+
+**True learning requires the difficult work of changing one's mind, not shortcuts.**
+
+
+> 💡 Teach me everything I need to know while I stand on one foot.
+
+
+The myth of instant expertise plagues education. Real learning resembles "wax on, wax off"—repetitive, difficult practice. Marketing promises ease; mastery demands the struggle of changing worldviews.
+
+> Worldviews are the frames that we bring to the party.  
+> **___George Lakoff**
+
+## The Myth of "Standing on One Foot"
+
+
+### Why this matters
+
+
+**Impatience:** Students desire enlightenment without effort.
+
+
+**Marketing Lies:** Ads promise you can learn piano, stocks, or drawing instantly and effortlessly.
+
+
+**The Reality:** Mastery starts with mundane repetition (e.g., _The Karate Kid_).
+
+
+## Changing Worldviews
+
+
+### The Definition of Learning
+
+
+### Why this matters
+
+
+**Frame Breaking:** Learning involves changing how we see the world.
+
+
+**Resistance:** People resist valid data if it conflicts with their established worldview.
+
+
+**Consent:** You cannot "do" theater or teaching to an audience that has not consented to receive it.
+
+
+## The Strategy of the Smallest Viable Audience
+
+
+### Why this matters
+
+
+**Ignore the Masses:** The "TL;DR" (Too Long; Didn't Read) crowd is not your student base.
+
+
+**Focus:** Find the small group ready and eager to change their minds.
+
+
+**Transparency:** clearly state the difficulty required to join the journey.
+
+
+### Homework
+
+
+**Reflect on your current learning journey. Then, respond to these prompts:**
+
+1. Identify a skill you tried to learn "while standing on one foot" and failed.
+2. What is a "worldview" you hold that makes learning a specific new topic difficult?
+3. Who is the "smallest viable audience" for your current work or project?
