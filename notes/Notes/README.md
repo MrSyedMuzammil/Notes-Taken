@@ -506,18 +506,27 @@ I am currently enrolled in BS Computer Science in an affiliated college with the
 
 ### Why this matters
 
-- Education relies on a **transaction: compliance for a degree.**
-- Institutions use coercion to ensure attendance.
-- Systems prioritize the **test over knowledge retention.**
+
+Education relies on a **transaction: compliance for a degree.**
+
+
+Institutions use coercion to ensure attendance.
+
+
+Systems prioritize the **test over knowledge retention.**
+
 
 ## The Failure of Passive Consumption
 
 
-### Why this matters
+**Information access** **does not equal skill acquisition.**
 
-- **Information access** **does not equal skill acquisition.**
-- Entertainment creates an **illusion of progress.**
-- Lectures provide convenience but **rarely facilitate mastery.**
+
+Entertainment creates an **illusion of progress.**
+
+
+Lectures provide convenience but **rarely facilitate mastery.**
+
 
 ## Learning Through Action
 
@@ -534,20 +543,26 @@ I am currently enrolled in BS Computer Science in an affiliated college with the
 ## The Purpose of School
 
 
-### Why this matters
+**Traditional schools** focus on indoctrination for paper.
 
-- **Traditional schools** focus on indoctrination for paper.
-- **Future systems** must focus on **two goals:** <u>solving interesting problems and leading.</u>
-- **The internet ends information scarcity.**
+
+**Future systems** must focus on **two goals:** <u>solving interesting problems and leading.</u>
+
+
+**The internet ends information scarcity.**
+
 
 ## Future Accreditation
 
 
-### Why this matters
+**Digital platforms** allow individualized instruction.
 
-- **Digital platforms** allow individualized instruction.
-- Accreditation will shift from institutional prestige to human skill.
-- <u>Value moves from holding a degree to proving a capability.</u>
+
+Accreditation will shift from institutional prestige to human skill.
+
+
+<u>Value moves from holding a degree to proving a capability.</u>
+
 
 ---
 
@@ -555,7 +570,7 @@ I am currently enrolled in BS Computer Science in an affiliated college with the
 ### Common Mistakes
 
 <details>
-<summary>Confusing a lecture with a class. </summary>
+<summary>**Confusing a lecture with a class.** </summary>
 
 **Fix:** Label passive listening as information, not learning.
 
@@ -563,7 +578,7 @@ I am currently enrolled in BS Computer Science in an affiliated college with the
 </details>
 
 <details>
-<summary>Prioritizing the degree over the skill. </summary>
+<summary>**Prioritizing the degree over the skill.** </summary>
 
 **Fix:** Focus on solving problems.
 
@@ -571,7 +586,7 @@ I am currently enrolled in BS Computer Science in an affiliated college with the
 </details>
 
 <details>
-<summary>Equating entertainment with education. </summary>
+<summary>**Equating entertainment with education.** </summary>
 
 **Fix:** Engage in difficult tasks instead of watching celebrities.
 
@@ -579,7 +594,7 @@ I am currently enrolled in BS Computer Science in an affiliated college with the
 </details>
 
 <details>
-<summary>Using information scarcity to justify costs. </summary>
+<summary>**Using information scarcity to justify costs.** </summary>
 
 **Fix:** Use free digital resources for data.
 
@@ -587,7 +602,7 @@ I am currently enrolled in BS Computer Science in an affiliated college with the
 </details>
 
 <details>
-<summary>Ignoring the high dropout rate of un-coerced systems. </summary>
+<summary>**Ignoring the high dropout rate of un-coerced systems.** </summary>
 
 **Fix:** Find personal enrolment.
 
@@ -595,7 +610,7 @@ I am currently enrolled in BS Computer Science in an affiliated college with the
 </details>
 
 <details>
-<summary>Asking "Will this be on the test?" </summary>
+<summary>**Asking "Will this be on the test?"** </summary>
 
 **Fix:** Ask "How will this solve a problem?"
 
@@ -603,7 +618,7 @@ I am currently enrolled in BS Computer Science in an affiliated college with the
 </details>
 
 <details>
-<summary>Believing one size fits all.</summary>
+<summary>**Believing one size fits all.**</summary>
 
 **Fix:** Seek personalized learning paths.
 
@@ -611,7 +626,7 @@ I am currently enrolled in BS Computer Science in an affiliated college with the
 </details>
 
 <details>
-<summary>Relying on physical attendance clickers. </summary>
+<summary>**Relying on physical attendance clickers.** </summary>
 
 **Fix:** Measure progress by output.
 
@@ -619,7 +634,7 @@ I am currently enrolled in BS Computer Science in an affiliated college with the
 </details>
 
 <details>
-<summary>Dismissing ideas because they challenge beliefs.</summary>
+<summary>**Dismissing ideas because they challenge beliefs.**</summary>
 
 **Fix:** Dig into uncomfortable data.
 
@@ -627,7 +642,7 @@ I am currently enrolled in BS Computer Science in an affiliated college with the
 </details>
 
 <details>
-<summary>Waiting for permission to start. </summary>
+<summary>**Waiting for permission to start.** </summary>
 
 **Fix:** Use the open door of the internet.
 
@@ -689,9 +704,15 @@ Education serves industrial compliance while learning requires solving interesti
 
 ### Why this matters
 
-- Factories required workers to follow orders for twelve hours daily.
-- Public education trained people to move off farms into buildings.
-- Straight rows and processed batches replicate factory organization.
+
+Factories required workers to follow orders for twelve hours daily.
+
+
+Public education trained people to move off farms into buildings.
+
+
+Straight rows and processed batches replicate factory organization.
+
 
 ## Work versus Art
 
@@ -699,12 +720,17 @@ Education serves industrial compliance while learning requires solving interesti
 ### The Distinction of Effort
 
 
-### Why this matters
+People try to minimize work.
 
-- People try to minimize work.
-- Artists try to maximize art.
-- Compliance makes school feel like a job.
-- Solving interesting problems turns learning into art.
+
+Artists try to maximize art.
+
+
+Compliance makes school feel like a job.
+
+
+Solving interesting problems turns learning into art.
+
 
 ## The Eight Shifts of Modern Learning
 
@@ -712,11 +738,14 @@ Education serves industrial compliance while learning requires solving interesti
 ### Structural Changes
 
 
-### Why this matters
+Digital tools remove the need for physical lectures.
 
-- Digital tools remove the need for physical lectures.
-- Open books prioritize application over memorization.
-- Cooperation reflects the real world better than isolation.
+
+Open books prioritize application over memorization.
+
+
+Cooperation reflects the real world better than isolation.
+
 
 ## Collecting versus Connecting Dots
 
@@ -724,16 +753,19 @@ Education serves industrial compliance while learning requires solving interesti
 ### The Goal of Education
 
 
-### Why this matters
+Schools measure dot collection through facts.
 
-- Schools measure dot collection through facts.
-- Solving problems requires connecting dots.
-- Connecting dots allows for failure and persistence.
+
+Solving problems requires connecting dots.
+
+
+Connecting dots allows for failure and persistence.
+
 
 ### Common Mistakes
 
 <details>
-<summary>Believing grades lead to happiness. </summary>
+<summary>**Believing grades lead to happiness.** </summary>
 
 Fix: Focus on passion and insight.
 
@@ -741,7 +773,7 @@ Fix: Focus on passion and insight.
 </details>
 
 <details>
-<summary>Confusing memorization with knowledge. </summary>
+<summary>**Confusing memorization with knowledge.** </summary>
 
 Fix: Use open books for every task.
 
@@ -749,7 +781,7 @@ Fix: Use open books for every task.
 </details>
 
 <details>
-<summary>Prioritizing attendance over output. </summary>
+<summary>**Prioritizing attendance over output.** </summary>
 
 Fix: Measure work produced.
 
@@ -757,7 +789,7 @@ Fix: Measure work produced.
 </details>
 
 <details>
-<summary>Working alone to avoid cheating. </summary>
+<summary>**Working alone to avoid cheating.** </summary>
 
 Fix: Collaborate with peers.
 
@@ -765,7 +797,7 @@ Fix: Collaborate with peers.
 </details>
 
 <details>
-<summary>Thinking a famous name guarantees success. </summary>
+<summary>**Thinking a famous name guarantees success.** </summary>
 
 Fix: Build a portfolio of results.
 
@@ -773,7 +805,7 @@ Fix: Build a portfolio of results.
 </details>
 
 <details>
-<summary>Using multiple choice for complex topics. </summary>
+<summary>**Using multiple choice for complex topics.** </summary>
 
 Fix: Create unique solutions.
 
@@ -781,7 +813,7 @@ Fix: Create unique solutions.
 </details>
 
 <details>
-<summary>Holding back effort to avoid more work. </summary>
+<summary>**Holding back effort to avoid more work.** </summary>
 
 Fix: Turn tasks into art.
 
@@ -789,7 +821,7 @@ Fix: Turn tasks into art.
 </details>
 
 <details>
-<summary>Asking for the right answer. </summary>
+<summary>**Asking for the right answer.** </summary>
 
 Fix: Accept multiple solutions.
 
@@ -797,7 +829,7 @@ Fix: Accept multiple solutions.
 </details>
 
 <details>
-<summary>Waiting for the supervisor to assign tasks. </summary>
+<summary>**Waiting for the supervisor to assign tasks.** </summary>
 
 Fix: Take agency.
 
@@ -831,9 +863,6 @@ The myth of instant expertise plagues education. Real learning resembles "wax on
 ## The Myth of "Standing on One Foot"
 
 
-### Why this matters
-
-
 **Impatience:** Students desire enlightenment without effort.
 
 
@@ -849,9 +878,6 @@ The myth of instant expertise plagues education. Real learning resembles "wax on
 ### The Definition of Learning
 
 
-### Why this matters
-
-
 **Frame Breaking:** Learning involves changing how we see the world.
 
 
@@ -862,9 +888,6 @@ The myth of instant expertise plagues education. Real learning resembles "wax on
 
 
 ## The Strategy of the Smallest Viable Audience
-
-
-### Why this matters
 
 
 **Ignore the Masses:** The "TL;DR" (Too Long; Didn't Read) crowd is not your student base.
@@ -885,7 +908,7 @@ The myth of instant expertise plagues education. Real learning resembles "wax on
 2. What is a "worldview" you hold that makes learning a specific new topic difficult?
 3. Who is the "smallest viable audience" for your current work or project?
 
-The Magic of Enrolement
+## The Magic of Enrollment
 
 
 True enrollment is the emotional and voluntary commitment to persist when learning gets difficult.
@@ -962,7 +985,7 @@ Public school enrollment is legal compliance; true enrollment is emotional inves
 ### Common Mistakes
 
 <details>
-<summary>Confusing registration with enrollment. </summary>
+<summary>**Confusing registration with enrollment.** </summary>
 
 Fix: Measure emotional commitment, not just sign-ups.
 
@@ -970,7 +993,7 @@ Fix: Measure emotional commitment, not just sign-ups.
 </details>
 
 <details>
-<summary>Starting with the hardest task. </summary>
+<summary>**Starting with the hardest task.** </summary>
 
 Fix: Build momentum and social bonds first (the "walkup").
 
@@ -978,7 +1001,7 @@ Fix: Build momentum and social bonds first (the "walkup").
 </details>
 
 <details>
-<summary>Offering everything for free. </summary>
+<summary>**Offering everything for free.** </summary>
 
 Fix: Charge a fee to create a sunk cost and filter for commitment.
 
@@ -986,7 +1009,7 @@ Fix: Charge a fee to create a sunk cost and filter for commitment.
 </details>
 
 <details>
-<summary>Over-polishing content. </summary>
+<summary>**Over-polishing content.** </summary>
 
 Fix: Be raw and authentic to build a personal connection.
 
@@ -994,7 +1017,7 @@ Fix: Be raw and authentic to build a personal connection.
 </details>
 
 <details>
-<summary>Allowing anonymity. </summary>
+<summary>**Allowing anonymity.** </summary>
 
 Fix: Ensure students are seen by their peers.
 
@@ -1002,7 +1025,7 @@ Fix: Ensure students are seen by their peers.
 </details>
 
 <details>
-<summary>Ignoring cognitive dissonance. </summary>
+<summary>**Ignoring cognitive dissonance.** </summary>
 
 Fix: Use the student's past investment to encourage future effort.
 
@@ -1010,7 +1033,7 @@ Fix: Use the student's past investment to encourage future effort.
 </details>
 
 <details>
-<summary>Underestimating the "walkup."</summary>
+<summary>**Underestimating the "walkup."**</summary>
 
 Fix: Use the early days to cement group cohesion.
 
@@ -1018,7 +1041,7 @@ Fix: Use the early days to cement group cohesion.
 </details>
 
 <details>
-<summary>Relying solely on willpower. </summary>
+<summary>**Relying solely on willpower.** </summary>
 
 Fix: Leverage social pressure and financial stakes.
 
@@ -1026,7 +1049,7 @@ Fix: Leverage social pressure and financial stakes.
 </details>
 
 <details>
-<summary>Teaching to a passive audience. </summary>
+<summary>**Teaching to a passive audience.** </summary>
 
 Fix: Demand active participation to deepen enrollment.
 
@@ -1034,7 +1057,7 @@ Fix: Demand active participation to deepen enrollment.
 </details>
 
 <details>
-<summary>Fearing dropout. </summary>
+<summary>**Fearing dropout.** </summary>
 
 Fix: Accept that those who won't enroll shouldn't be there.
 
@@ -1060,7 +1083,7 @@ Learning requires the discomfort of incompetence and the tension of the unknown 
 > 💡 Learning is the act of becoming momentarily incompetent to change your mind.
 
 
-**You used to be very satisfied with the way you saw the world. Now you realize there's stuff you don't see. We have to put you under tension the same way we stretch a rubber band across the room. We don't say "show me all the steps of being married for 50 years and then I'll decide." We enroll in the journey.**
+You used to be very satisfied with the way you saw the world. Now you realize there's stuff you don't see. We have to put you under tension the same way we stretch a rubber band across the room. We don't say "show me all the steps of being married for 50 years and then I'll decide." We enroll in the journey.
 
 
 ## The Nature of Hard Learning
@@ -1123,7 +1146,7 @@ Learning requires the discomfort of incompetence and the tension of the unknown 
 ### Common Mistakes
 
 <details>
-<summary>Demanding the full roadmap. </summary>
+<summary>**Demanding the full roadmap.** </summary>
 
 Fix: Commit to the journey without knowing every step.
 
@@ -1131,7 +1154,7 @@ Fix: Commit to the journey without knowing every step.
 </details>
 
 <details>
-<summary>Avoiding incompetence. </summary>
+<summary>**Avoiding incompetence.** </summary>
 
 Fix: Embrace the feeling of being bad at something new.
 
@@ -1139,7 +1162,7 @@ Fix: Embrace the feeling of being bad at something new.
 </details>
 
 <details>
-<summary>Providing all answers instantly. </summary>
+<summary>**Providing all answers instantly.** </summary>
 
 Fix: Use silence to force the student to connect the dots.
 
@@ -1147,7 +1170,7 @@ Fix: Use silence to force the student to connect the dots.
 </details>
 
 <details>
-<summary>Watching at high speed. </summary>
+<summary>**Watching at high speed.** </summary>
 
 Fix: Slow down and lean in.
 
@@ -1155,7 +1178,7 @@ Fix: Slow down and lean in.
 </details>
 
 <details>
-<summary>Removing tension to be "nice." </summary>
+<summary>**Removing tension to be "nice."** </summary>
 
 Fix: Maintain tension to ensure propulsion.
 
@@ -1163,7 +1186,7 @@ Fix: Maintain tension to ensure propulsion.
 </details>
 
 <details>
-<summary>Expecting comfort. </summary>
+<summary>**Expecting comfort.** </summary>
 
 Fix: Recognize that comfort means you aren't changing your mind.
 
@@ -1171,7 +1194,7 @@ Fix: Recognize that comfort means you aren't changing your mind.
 </details>
 
 <details>
-<summary>Ignoring the "in-between" state. </summary>
+<summary>**Ignoring the "in-between" state.** </summary>
 
 Fix: Reflect during the silence between lessons.
 
@@ -1179,7 +1202,7 @@ Fix: Reflect during the silence between lessons.
 </details>
 
 <details>
-<summary>Refusing to start without guarantees. </summary>
+<summary>**Refusing to start without guarantees.** </summary>
 
 Fix: Adopt the "marriage mindset"—commit to the process, not the guaranteed outcome.
 
@@ -1195,6 +1218,175 @@ Fix: Adopt the "marriage mindset"—commit to the process, not the guaranteed ou
 1. Describe a time you quit a project because the "incompetence" felt too uncomfortable.
 2. Where in your current studies can you introduce "silence" to think, rather than just consuming more data?
 3. Are you currently "sitting back" (judging) or "leaning in" (participating) in your Computer Science degree?
+
+## The Formula for Enrollment
+
+
+Enrollment is the variable that overcomes the difficulty of learning.
+
+
+> 💡 Enrollment = (Change × Peer Support × Certificate Value) / Ease of Entry
+
+
+Learning requires changing your mind. Enrollment provides the emotional commitment to persist through that difficulty. Most online courses fail because the formula is unbalanced
+
+> It is only when we do it and when we don't quit that change happens.  
+>  ___Seth Godin
+
+## Ease of Entry
+
+
+**Friction creates value:** If a course is free to enter and free to leave, sunk costs are zero.
+
+
+**The Dropout Trap****:** High ease of entry leads to high dropout rates (95% in typical MOOCs) because there is nothing at stake.
+
+
+**Skin in the Game:** Charging money or requiring significant upfront effort reduces ease of entry, increasing commitment.
+
+
+## Three Multipliers
+
+
+### Change Required
+
+
+**Low Stakes:** Learning to mix blue paint requires little worldview shift, so retention is high.
+
+
+**High Stakes:** Changing your career or mindset requires massive internal shifts. This increases difficulty and requires higher enrollment to sustain.
+
+
+### Peer Pressure and Support
+
+
+**The Navy SEAL Principle:** Individuals quit; groups persist. Peer pressure is a tool for forward motion.
+
+
+**The Missing Link:** Most online institutions ignore this.
+
+
+**Wikipedia Model:** 5,000 volunteers built the world's knowledge base without pay, driven entirely by peer support and community standards.
+
+
+### Value of the Certificate
+
+
+**The Prize:** People stick out boring or difficult traditional schooling because the degree gets them a job (e.g., Data Scientist at Google).
+
+
+**The Shift:** In unaccredited learning, the certificate has less market value, so the other two factors (Peer Support and Change) must do the heavy lifting.
+
+
+## The Strategy for Real Change
+
+
+### Unaccredited Transformation
+
+
+**Community over Credentials:** We cannot rely on the "prize" of a degree.
+
+
+**The Formula in Action:** To create change without a famous degree, we must:
+
+    1. Pick the **Smallest Viable Audience**.
+    2. Provide enormous **Peer Support** (knowing someone has your back).
+    3. Set high **Standards** for the transformation.
+
+---
+
+
+### Common Mistakes
+
+<details>
+<summary>**Making entry too easy.** </summary>
+
+Fix: Add a cost (financial or effort) to filter for commitment.
+
+
+</details>
+
+<details>
+<summary>**Ignoring peer dynamics.**</summary>
+
+Fix: Design the course around cohort interaction, not just content consumption.
+
+
+</details>
+
+<details>
+<summary>**Relying solely on the certificate.** </summary>
+
+Fix: Focus on the internal value of the change.
+
+
+</details>
+
+<details>
+<summary>**Underestimating the difficulty of change.** </summary>
+
+Fix: Be honest about the "worldview shift" required.
+
+
+</details>
+
+<details>
+<summary>**Confusing reassurance with support.**</summary>
+
+Fix: Support means pushing peers to work harder, not just comforting them.
+
+
+</details>
+
+<details>
+<summary>**Targeting the wrong audience.** </summary>
+
+Fix: Select people who _want_ the change.
+
+
+</details>
+
+<details>
+<summary>**Believing free means low quality.**</summary>
+
+Fix: Look at Wikipedia; free works if peer pressure is high.
+
+
+</details>
+
+<details>
+<summary>**Designing for isolation.** </summary>
+
+Fix: Force collaboration to prevent dropout.
+
+
+</details>
+
+<details>
+<summary>**Assuming low dropout means success.** </summary>
+
+Fix: Low dropout might just mean the change required was too small (e.g., mixing paint).
+
+
+</details>
+
+<details>
+<summary>**Failing to define the "End Game."** </summary>
+
+Fix: Clearly articulate the transformation, even if there is no certificate.
+
+
+</details>
+
+
+### Homework
+
+
+**Apply the formula to your current situation. Then, respond to these prompts:**
+
+1. **Calculate the Denominator:** How "easy" was it to enter your current Computer Science program? Does this make you more or less likely to quit?
+2. **Evaluate Peer Support:** Do you have a "Navy SEAL" team in your studies, or are you working alone?
+3. **Define the Prize:** Are you here for the certificate (the degree) or the change (the skill)?
 
 CHOOSE THE RIGHT COLOR
 1
