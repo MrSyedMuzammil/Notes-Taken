@@ -1,5 +1,5 @@
 
-## Education vs. Learnin
+## Education vs. Learning
 
 
 **Education demands passive compliance while learning requires active participation.**
@@ -10,9 +10,6 @@
 > Education requires conformity and coercion. Learning exists independently of organized systems. Students trade years of life for scarce paper certificates. Action produces skill. **___Seth Godin**
 
 ## The Education Trade
-
-
-### Why this matters
 
 
 Education relies on a **transaction: compliance for a degree.**

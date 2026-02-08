@@ -346,29 +346,38 @@ Conforming to requirements serves the test.
 ## The Compliance Model
 
 
-### Why this matters
+Compliance ensures **conformity across large groups.**
 
-- Compliance ensures **conformity across large groups.**
-- Standardized testing provides **speed but lacks depth.**
-- Extrinsic motivation **fails to produce permanent mastery.**
+
+Standardized testing provides **speed but lacks depth.**
+
+
+Extrinsic motivation **fails to produce permanent mastery.**
+
 
 ## The Enrollment Alternative
 
 
-### Why this matters
+Enrollment connects learning to specific personal goals.
 
-- Enrollment connects learning to specific personal goals.
-- **Voluntary commitment fuels long-term retention.**
-- Interest-driven education yields faster results.
+
+**Voluntary commitment fuels long-term retention.**
+
+
+Interest-driven education yields faster results.
+
 
 ## Information vs. Absorption
 
 
-### Why this matters
+Modern tools provide **infinite data.**
 
-- Modern tools provide **infinite data.**
-- Access to experts no longer requires physical proximity.
-- **Authentic learning** requires internalizing concepts through action
+
+Access to experts no longer requires physical proximity.
+
+
+**Authentic learning** requires internalizing concepts through action
+
 
 ## Common Mistakes and their Fixes
 
@@ -491,7 +500,7 @@ I am currently enrolled in BS Computer Science in an affiliated college with the
 
 ## Section 2 : Education, Learning and Enrolment
 
-## Education vs. Learnin
+## Education vs. Learning
 
 
 **Education demands passive compliance while learning requires active participation.**
@@ -502,9 +511,6 @@ I am currently enrolled in BS Computer Science in an affiliated college with the
 > Education requires conformity and coercion. Learning exists independently of organized systems. Students trade years of life for scarce paper certificates. Action produces skill. **___Seth Godin**
 
 ## The Education Trade
-
-
-### Why this matters
 
 
 Education relies on a **transaction: compliance for a degree.**
