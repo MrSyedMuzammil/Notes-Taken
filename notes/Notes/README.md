@@ -592,7 +592,10 @@ Accreditation will shift from institutional prestige to human skill.
 </details>
 
 <details>
-<summary>**Equating entertainment with education.** </summary>
+<summary>**Equating entertainment with educat**</summary>
+
+**ion.** 
+
 
 **Fix:** Engage in difficult tasks instead of watching celebrities.
 
