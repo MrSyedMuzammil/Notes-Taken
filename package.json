@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "@notionhq/client": "^5.22.0",
-    "fs-extra": "^11.3.5",
+    "fs-extra": "^11.3.6",
     "notion-to-md": "^3.1.9"
   }
 }
