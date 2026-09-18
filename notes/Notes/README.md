@@ -1560,6 +1560,32 @@ Fix: Build the jigsaw puzzle border first.
 2. List the three core rules of a complex programming topic you currently study.
 3. Contrast your understanding of a memorized fact versus a visualized system.
 
+## Entrepreneurship BS CS
+<details>
+<summary>CrashCourse</summary>
+
+[https://www.youtube.com/watch?v=YHBVjv4MYXE&list=PL8dPuuaLjXtNamNKW5qlS-nKgA0on7Qze&index=1](https://www.youtube.com/watch?v=YHBVjv4MYXE&list=PL8dPuuaLjXtNamNKW5qlS-nKgA0on7Qze&index=1)
+
+
+</details>
+
+<details>
+<summary>MIT BootCamps</summary>
+
+[https://www.youtube.com/watch?v=i8QaZ3U9tTU&list=PLQykyC1zr8f_ZcAZoTz-rruBBOP4Fmii5&index=1](https://www.youtube.com/watch?v=i8QaZ3U9tTU&list=PLQykyC1zr8f_ZcAZoTz-rruBBOP4Fmii5&index=1)
+
+
+</details>
+
+<details>
+<summary>Virtual University of Pakistan</summary>
+
+[https://www.youtube.com/watch?v=nTY5BQh_iR8&list=PLKyB9RYzaFRi2k93RdjfTryx7vITsurc0](https://www.youtube.com/watch?v=nTY5BQh_iR8&list=PLKyB9RYzaFRi2k93RdjfTryx7vITsurc0)
+
+
+</details>
+
+
 CHOOSE THE RIGHT COLOR
 1
 Make the main color match your website's personality: colors convey meaning!
